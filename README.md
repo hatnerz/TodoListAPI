@@ -48,3 +48,10 @@ The API includes the following endpoints:
 - POST /api/todo: Creates a new todo item.
 - PUT /api/todo/{id}: Updates an existing todo item.
 - DELETE /api/todo/{id}: Deletes a todo item.
+
+## Feedback
+
+- It was easy to complete the task using AI
+- It took 2 hours with all documentation
+- The code needed to be changed a little in most cases, but after a few requests for correction it can be used
+- I used prompts with detail context and prompts that was needed to correct code that was written by AI
